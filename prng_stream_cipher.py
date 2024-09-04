@@ -60,7 +60,7 @@ if __name__ == "__main__":
     enc_byte = encrypt (string, key)
     dec_byte = decrypt (enc_byte, key)
     
-    #prints all output 
+    #prints all output
     print ("Random seed = ", seed)
     print ("String = ", string)
     print ("Key = ", key)
